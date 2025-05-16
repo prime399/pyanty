@@ -314,3 +314,7 @@ Response:
 ## Conclusion
 
 pyanty provides a straightforward way to control Dolphin browser profiles for automation testing using Selenium, Pyppeteer or Playwright 🤖. With the Dolphin API, you can easily create, customize, and manage profiles right from Python. Give it a try for your next web scraping or test automation project! 🐬
+
+
+##Software Used:
+This Project is tested with BrowserStack.
